@@ -1,0 +1,10 @@
+main{
+    background-color: black;
+}
+
+.img-home{
+    width: 339px;
+    height: 600px;
+    /* display: flex; para que posicione una img al lado de la otra
+    flex: 1; // para que ocupe todo el espacio*/ 
+}

@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  /* background-image: url(../public/Images/New\ Nolan\ film\ announced_.jpg);
+  background-size: contain;
+  background-attachment: fixed; */
 }
 
 code {

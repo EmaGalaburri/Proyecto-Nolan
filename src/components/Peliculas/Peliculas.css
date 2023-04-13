@@ -1,0 +1,53 @@
+h5{
+    color: aliceblue;
+    text-shadow: 2px 2px black;
+}
+.color-title{
+    color: black;
+    text-shadow: 2px 2px grey;
+}
+.color-titleII{
+    color: black;
+    text-shadow: 2px 2px wheat;
+}
+button{
+    color: lightgray;
+}
+li{
+    color: aliceblue;
+}
+.img-peliculaI{
+    width: 980px;
+    display: flex;
+    margin: 50px auto;     
+}
+.img-peliculaII{
+    width: 760px;
+    display: flex;
+    margin: 50px auto;
+}
+.img-peliculaIII{
+    width: 740px;
+    display: flex;
+    margin: 50px auto;   
+}
+.img-peliculaIV{
+    width: 960px;
+    display: flex;
+    margin: 50px auto;  
+}
+.img-peliculaV{
+    width: 740px;
+    display: flex;
+    margin: 50px auto;   
+}
+.img-peliculaVI{
+    width: 980px;
+    display: flex;
+    margin: 50px auto;   
+}
+.img-peliculaVII{
+    width: 980px;
+    display: flex;
+    margin: 50px auto; 
+}
